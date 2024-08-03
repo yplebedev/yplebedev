@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @yplebedev (aka SCaELs)!
-- 👀 I’m interested in modding and coding! I'm a 3D artist (houdini,blender and S3DD) as well as working in Source and make occasional MC mods (Mostly texture packs and var edits of shaders)
-- 🌱 I’m currently learning Python and GLSL.
-- 💞️ I’m looking to collaborate on random GoldSRC/S1/S2/MC mods and TF2 animations/posters in blender (BLENDER ONLY)
+- 👋 Hi, I’m @yplebedev (aka SCaELs, BFB in in my small community)!
+- 👀 I’m interested in modding and coding! I'm a 3D artist (houdini, blender, and S3DD, postfx in aps) as well as an ex- Source engine modder and make occasional MC mods (Mostly texture packs and edits of shaders, learning fabricmc, so that's something to look out for)
+- 🌱 I’m currently learning RFX/HLSL, Java, and Python.
+- 💞️ I’m not looking to collab on much, unless I reach out myself
 - 📫 How to reach me (oredered by how often I check it): 
--     Discord: SCaELs#3640 (DM me, I will accept frend requests but I will unfriend after some time, friends lists have a purpose)
-      Steam: SCaELS1 |[TF2 BLENDER ART COMMS] (you'll generally see SCaELs and SomeCatEyeLink in there. This is my main account, I don't have "trading accounts" n such)
+-     Discord: scaels (DM me, I will accept frend requests but I will unfriend after some time, friends lists have a purpose)
+      Steam: https://steamcommunity.com/id/SCaELs/ (you'll generally see SCaELs and SomeCatEyeLink in there. This is my main account, I don't have "trading accounts" n such)
       E-Mail: (I barely check it) yplebdev@gmail.com
       
 <!---
