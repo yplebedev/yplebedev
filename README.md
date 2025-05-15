@@ -5,7 +5,7 @@
 - 📫 How to reach me (oredered by how often I check it): 
 -     Discord: scaels (DM me, I will accept frend requests but I will unfriend after some time, friends lists have a purpose)
       Steam: https://steamcommunity.com/id/SCaELs/ (you'll generally see SCaELs and SomeCatEyeLink in there. This is my main account, I don't have "trading accounts" n such)
-      E-Mail: (I barely check it) yplebdev@gmail.com
+      E-Mail: (I barely check it) yplebedev@gmail.com
       
 <!---
 yplebedev/yplebedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
